@@ -5,5 +5,4 @@ It starts at the men's running shoe page and scraps all pages.
 
 The pdf file is my completed project via google sheets
 
-For the user written reviews I created code for each of the 4 models. This still needs to be added.
-
+For the user written reviews I created code for each of the 4 models. They are located in the file 'test'.
